@@ -1,4 +1,4 @@
-# lets-nail-it
+# Firebase FullStack app Lets Nail It
 
 ## Project setup
 ```
